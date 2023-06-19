@@ -1,4 +1,4 @@
-# Assignment 4, 100 possible points (12%)
+# Assignment 4: Automated Inventory Tracking System 
 
 ## Design
 •	Work in group of at most 3 students – setup your group on Canvas using “Self Sign-Up”. 
