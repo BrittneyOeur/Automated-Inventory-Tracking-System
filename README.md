@@ -1,4 +1,9 @@
-# Assignment 4: Automated Inventory Tracking System 
+# CSS 343: Data Structures, Algorithms, and Discrete Mathematics II
+## Assignment 4: Automated Inventory Tracking System 
+
+## Team:
+- Brittney Oeur
+- Rui Qi Huang
 
 ## Design
 •	Work in group of at most 3 students – setup your group on Canvas using “Self Sign-Up”. 
